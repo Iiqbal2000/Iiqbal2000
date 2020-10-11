@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Iqbal</h1>
 <h3 align="center">I am a Frontend Developper.</h3>
 
+> *Kesalahan orang-orang pandai ialah menganggap yang lain bodoh, dan kesalahan orang-orang bodoh ialah menganggap orang lain pandai*.
+>
+> ***Pramoedya Ananta Toer***
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iiqbal2000&label=Profile%20views&color=0e75b6&style=flat" alt="iiqbal2000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iiqbal2000" alt="iiqbal2000" /></a> </p>
